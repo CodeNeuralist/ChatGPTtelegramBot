@@ -1,0 +1,6 @@
+2023-11-12 11:50:52,290 [INFO]: Start polling
+2023-11-12 11:50:52,531 [INFO]: Run polling for bot @test34edfdfgfdg_bot id=6522075931 - 'test_bot'
+2023-11-12 11:51:21,690 [INFO]: Update id=649432284 is handled. Duration 19984 ms by bot id=6522075931
+2023-11-12 11:52:18,985 [INFO]: Update id=649432285 is handled. Duration 47843 ms by bot id=6522075931
+2023-11-12 11:56:12,942 [INFO]: Polling stopped for bot @test34edfdfgfdg_bot id=6522075931 - 'test_bot'
+2023-11-12 11:56:12,943 [INFO]: Polling stopped
