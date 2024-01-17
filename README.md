@@ -13,12 +13,9 @@
 Установите Python:
 Убедитесь, что на вашем компьютере установлена подходящая версия Python. Рекомендуется использовать Python 3.x.
 
-Скачайте или клонируйте репозиторий с исходным кодом проекта с помощью Git:
-1. ```git clone https://github.com/CodeWarpX/ChatGPTtelegramBot```
-Перейдите в директорию проекта:
-2. ```cd ChatGPTtelegramBot```
-Установите необходимые зависимости, указанные в файле requirements.txt:
-3. ```pip install -r requirements.txt```
+1. Скачайте или клонируйте репозиторий с исходным кодом проекта с помощью Git: ```git clone https://github.com/CodeWarpX/ChatGPTtelegramBot```
+2. Перейдите в директорию проекта: ```cd ChatGPTtelegramBot```
+3. Установите необходимые зависимости, указанные в файле requirements.txt: ```pip install -r requirements.txt```
    
 Это установит все библиотеки и компоненты, необходимые для работы бота.
 
