@@ -13,7 +13,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 database = db.Database()
 router = Router()
 selected_language = ru_strings
-ADMIN_USER_ID = 6918756613
+ADMIN_USER_ID = 
 
 async def generate_response(user_message):
     try:
