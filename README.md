@@ -18,7 +18,7 @@
 
 bash
 Copy code
-git clone https://github.com/CodeWarpX/ChatGPTtelegramBot
+```git clone https://github.com/CodeWarpX/ChatGPTtelegramBot```
 Перейдите в директорию проекта:
 Перейдите в созданную директорию:
 
