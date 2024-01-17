@@ -13,24 +13,14 @@
 Установите Python:
 Убедитесь, что на вашем компьютере установлена подходящая версия Python. Рекомендуется использовать Python 3.x.
 
-Клонируйте репозиторий:
 Скачайте или клонируйте репозиторий с исходным кодом проекта с помощью Git:
 
-bash
-Copy code
-```git clone https://github.com/CodeWarpX/ChatGPTtelegramBot```
+1. ```git clone https://github.com/CodeWarpX/ChatGPTtelegramBot```
 Перейдите в директорию проекта:
-Перейдите в созданную директорию:
-
-bash
-Copy code
-cd ChatGPTtelegramBot
-Установите зависимости:
+2. ```cd ChatGPTtelegramBot```
 Установите необходимые зависимости, указанные в файле requirements.txt:
-
-bash
-Copy code
-pip install -r requirements.txt
+3. ```pip install -r requirements.txt```
+   
 Это установит все библиотеки и компоненты, необходимые для работы бота.
 
 Теперь ваш чат-бот готов к использованию в некоммерческих целях. Пожалуйста, помните о соблюдении авторских прав и условий использования проекта.
