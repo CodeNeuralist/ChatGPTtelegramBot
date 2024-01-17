@@ -24,4 +24,4 @@
 Автор©: https://t.me/CodeWarpX
 Оригинальный бот: https://t.me/ChatGPTWarpX_bot
 
-Kirill Fedoko©
+Kirill Fedko©
