@@ -1,0 +1,53 @@
+2024-01-17 12:39:30,823 [INFO]: Start polling
+2024-01-17 12:39:31,068 [INFO]: Run polling for bot @ChatGPTWarpX_bot id=6788094292 - 'ChatGPT'
+2024-01-17 12:42:33,302 [INFO]: Update id=220433122 is handled. Duration 890 ms by bot id=6788094292
+2024-01-17 12:43:21,312 [INFO]: Update id=220433123 is handled. Duration 4484 ms by bot id=6788094292
+2024-01-17 12:48:48,867 [INFO]: Update id=220433124 is handled. Duration 406 ms by bot id=6788094292
+2024-01-17 12:48:52,075 [INFO]: Update id=220433125 is handled. Duration 172 ms by bot id=6788094292
+2024-01-17 12:49:04,065 [INFO]: Update id=220433126 is handled. Duration 313 ms by bot id=6788094292
+2024-01-17 12:49:14,371 [INFO]: Update id=220433127 is handled. Duration 186 ms by bot id=6788094292
+2024-01-17 12:49:19,669 [INFO]: Update id=220433128 is handled. Duration 218 ms by bot id=6788094292
+2024-01-17 12:49:21,487 [INFO]: Update id=220433129 is handled. Duration 110 ms by bot id=6788094292
+2024-01-17 12:49:37,592 [INFO]: Update id=220433130 is handled. Duration 12531 ms by bot id=6788094292
+2024-01-17 12:50:19,198 [INFO]: Update id=220433131 is handled. Duration 7406 ms by bot id=6788094292
+2024-01-17 12:51:25,574 [INFO]: Update id=220433132 is handled. Duration 500 ms by bot id=6788094292
+2024-01-17 12:54:34,159 [INFO]: Update id=220433133 is handled. Duration 389 ms by bot id=6788094292
+2024-01-17 12:54:35,858 [INFO]: Update id=220433134 is handled. Duration 172 ms by bot id=6788094292
+2024-01-17 12:54:38,643 [INFO]: Update id=220433135 is handled. Duration 500 ms by bot id=6788094292
+2024-01-17 12:56:30,413 [INFO]: Update id=220433136 is handled. Duration 359 ms by bot id=6788094292
+2024-01-17 12:57:59,695 [INFO]: Update id=220433137 is handled. Duration 375 ms by bot id=6788094292
+2024-01-17 12:58:22,369 [INFO]: Update id=220433138 is handled. Duration 313 ms by bot id=6788094292
+2024-01-17 12:59:21,495 [INFO]: Update id=220433139 is handled. Duration 265 ms by bot id=6788094292
+2024-01-17 13:00:32,204 [INFO]: Update id=220433140 is handled. Duration 718 ms by bot id=6788094292
+2024-01-17 13:00:39,462 [INFO]: Update id=220433141 is handled. Duration 2203 ms by bot id=6788094292
+2024-01-17 13:00:49,043 [INFO]: \u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c plstag \u0441 ID 2137577687 \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u043e\u043c.
+2024-01-17 13:00:49,175 [INFO]: Update id=220433142 is handled. Duration 140 ms by bot id=6788094292
+2024-01-17 13:01:28,674 [INFO]: Update id=220433143 is handled. Duration 359 ms by bot id=6788094292
+2024-01-17 13:01:32,454 [INFO]: Update id=220433144 is handled. Duration 125 ms by bot id=6788094292
+2024-01-17 13:02:06,690 [INFO]: \u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c plstag \u0441 ID 2137577687 \u0440\u0430\u0437\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u043e\u043c.
+2024-01-17 13:02:07,194 [INFO]: Update id=220433145 is handled. Duration 515 ms by bot id=6788094292
+2024-01-17 13:03:25,769 [ERROR]: An error occurred: Telegram server says - Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 7355
+2024-01-17 13:03:25,944 [INFO]: Update id=220433146 is handled. Duration 1359 ms by bot id=6788094292
+2024-01-17 13:03:42,693 [INFO]: Update id=220433147 is handled. Duration 327 ms by bot id=6788094292
+2024-01-17 13:10:02,925 [INFO]: Update id=220433148 is handled. Duration 436 ms by bot id=6788094292
+2024-01-17 13:54:29,435 [ERROR]: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-01-17 13:54:29,435 [WARNING]: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6788094292)
+2024-01-17 13:54:37,149 [INFO]: Connection established (tryings = 1, bot id = 6788094292)
+2024-01-17 13:54:40,256 [INFO]: Update id=220433149 is handled. Duration 3109 ms by bot id=6788094292
+2024-01-17 13:55:05,636 [INFO]: Update id=220433150 is handled. Duration 12968 ms by bot id=6788094292
+2024-01-17 14:02:15,563 [ERROR]: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-01-17 14:02:15,564 [WARNING]: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6788094292)
+2024-01-17 14:02:16,880 [INFO]: Connection established (tryings = 1, bot id = 6788094292)
+2024-01-17 14:02:17,134 [INFO]: Update id=220433151 is handled. Duration 250 ms by bot id=6788094292
+2024-01-17 14:12:50,020 [ERROR]: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-01-17 14:12:50,020 [WARNING]: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6788094292)
+2024-01-17 14:13:01,432 [INFO]: Connection established (tryings = 1, bot id = 6788094292)
+2024-01-17 15:36:46,067 [ERROR]: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-01-17 15:36:46,067 [WARNING]: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6788094292)
+2024-01-17 15:36:57,378 [INFO]: Connection established (tryings = 1, bot id = 6788094292)
+2024-01-17 15:45:42,191 [ERROR]: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-01-17 15:45:42,191 [WARNING]: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6788094292)
+2024-01-17 15:45:53,614 [INFO]: Connection established (tryings = 1, bot id = 6788094292)
+2024-01-17 15:58:09,678 [INFO]: Update id=220433152 is handled. Duration 375 ms by bot id=6788094292
+2024-01-17 17:00:07,177 [INFO]: Polling stopped
+2024-01-17 17:00:07,180 [INFO]: Polling stopped for bot @ChatGPTWarpX_bot id=6788094292 - 'ChatGPT'
